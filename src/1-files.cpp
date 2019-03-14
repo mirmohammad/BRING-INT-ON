@@ -21,9 +21,8 @@
 
 //  The output is a file called whose name is the second argument
 //  of the program: each line contains the answer for one of the datasets
-//  in the order in which they were read form the input file.If the dataset
-//  is empty the line consists of the word “EMPTY”. Otherwise the line
-//  contains one number which is how many even number were in the list.
+//  in the order in which they were read form the input file. The line
+//  contains one number which is the sum of all numbers in it's dataset.
 
 #include <iostream>  // Standard input / output stream library
 #include <fstream>  // File stream
