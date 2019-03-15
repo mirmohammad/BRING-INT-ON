@@ -1,5 +1,5 @@
 //
-//  2-sort.cpp
+//  02-sort.cpp
 //  Sort an 1-D array using bubble sort and insertion sort
 //
 //  Created by Mirmohammad Saadati on 2019-03-14.
