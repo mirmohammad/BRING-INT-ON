@@ -22,7 +22,7 @@
 //  The output is a file called whose name is the second argument
 //  of the program: each line contains the answer for one of the datasets
 //  in the order in which they were read form the input file. The line
-//  contains one number which is the sum of all numbers in it's dataset.
+//  contains one number which is the sum of all numbers in its dataset.
 
 #include <iostream>  // Standard input / output stream library
 #include <fstream>  // File stream
@@ -39,7 +39,7 @@ int main(int argc, const char * argv[]) {
 
     // open output file
     ofstream fo(argv[2]);
-    if(!fo){ cout << "Cannot write to output file!" << endl; return -1; }
+    if(!fo) { cout << "Cannot write to output file!" << endl; return -1; }
 
     // N indicates the total number of datasets
     int N;
