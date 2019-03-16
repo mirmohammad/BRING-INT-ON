@@ -7,7 +7,6 @@
 //
 
 #include <iostream>  // Standard input / output stream library
-#include <vector>  // Life saver in C++
 
 using namespace std;
 
